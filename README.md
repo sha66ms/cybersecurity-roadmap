@@ -81,18 +81,7 @@ Week 3 — Linux Fundamentals
 
 Learn the Linux operating system, essential commands, file permissions, users, processes, and basic system administration concepts used in cybersecurity.
 
- Goal
 
-By the end of this week, you should be able to:
-
-Navigate the Linux file system.
-Use essential Linux commands.
-Create, modify, move, and delete files and directories.
-Understand users, groups, and permissions.
-Manage running processes.
-Use SSH to connect to a Linux machine.
-Read and understand basic Linux command output.
-Work comfortably from the Linux terminal.
  Resources
  Video Courses
 Linux for Ethical Hackers — The Cyber Mentor
@@ -128,18 +117,7 @@ Week 4 — Windows Fundamentals
 
 Learn the fundamentals of the Windows operating system, including system navigation, users, file systems, processes, services, and basic security concepts.
 
- Goal
 
-By the end of this week, you should be able to:
-
-Understand the basic Windows operating system.
-Navigate Windows and manage files and directories.
-Understand Windows users and groups.
-Understand NTFS permissions.
-Identify running processes and services.
-Understand basic Windows networking.
-Use common Windows administration tools.
-Understand basic Windows security concepts.
 Resources
  Video Course
 CompTIA A+ — Windows & IT Fundamentals
@@ -164,21 +142,6 @@ https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=DhpH2zIv
 
 ---
 
-##  Goal
-
-By the end of this week, you should understand:
-
-* Encoding vs Encryption vs Hashing
-* Symmetric Encryption
-* Asymmetric Encryption
-* Public & Private Keys
-* Hash Functions
-* MD5, SHA-1, SHA-256
-* Password Hashing & Salting
-* Digital Signatures
-* Digital Certificates
-* Basic Cryptography in HTTPS/TLS
-* Common Cryptography Mistakes
 
 ---
 
