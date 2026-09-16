@@ -4,7 +4,7 @@ roadmap for learning cybersecurity
 
 | Week | Topic | Status |
 |---|---|---|
-| 1 | 🌐 Networking Fundamentals | ⬜ Not Started |
+| 1 | 🌐 Networking Fundamentals | [] Not Started |
 | 2 | 🌐 Networking for Security | ⬜ Not Started |
 | 3 | 🐧 Linux Fundamentals | ⬜ Not Started |
 | 4 | 🪟 Windows Fundamentals | ⬜ Not Started |
